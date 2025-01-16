@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error related to null checks. The `foo` function checks for null values explicitly, but this approach can cause unexpected behavior with other falsy values.  The `bug.js` file shows the issue, while `bugSolution.js` provides a more robust solution.
